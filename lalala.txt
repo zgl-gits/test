@@ -1,3 +1,7 @@
 sadasdfsadfsa
 dsfasfasf
+<<<<<<< HEAD
 ggggggggg
+=======
+llllllllllll
+>>>>>>> dev
